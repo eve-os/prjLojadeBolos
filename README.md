@@ -1,4 +1,4 @@
-# prjLojadeBolos
+# Loja de Bolos
 Layout feito para fins de estudo.
 
 Corresponde a uma loja de bolos.
